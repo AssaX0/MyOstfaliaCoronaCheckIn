@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyOstfaliaCoronaCheckIn</string>
+    <string name="ostfalia_corona_check_in">Ostfalia Corona Check-In</string>
+    <string name="the_room_spinner">the room spinner</string>
+    <string name="personenNr">00</string>
+    <string name="momentan">Momentan</string>
+    <string name="platz">Platz</string>
+    <string name="personen">Personen</string>
+    <string name="platzNr">3B</string>
+    <string name="icon_qr">icon_qr</string>
+    <string name="icon_qm">icon_qm</string>
+    <string name="icon_zr">icon_zr</string>
+    <string name="placeId">3B</string>
+    <string name="button">KOMMEN</string>
+    <string-array name="rooms">
+        <item>Scale-Up 201</item>
+    </string-array>
+
+    <string name="detection">Nichts  erkannt!</string>
+
+    <string name="firstName">Vorname</string>
+    <string name="lastName">Nachname</string>
+    <string name="address">Adresse</string>
+    <string name="city">Stadt</string>
+    <string name="phoneNumber">Telefonnummer</string>
+    <string name="fertig">Fertig</string>
+    <string name="arrow">Arrow</string>
+
+</resources>
